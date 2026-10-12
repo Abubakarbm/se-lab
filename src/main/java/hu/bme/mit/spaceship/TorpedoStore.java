@@ -9,6 +9,7 @@ import java.util.Random;
 */
 public class TorpedoStore {
 
+  // shared instance: creating a new Random on every fire() call is wasteful and can yield poorly distributed values
   private static final Random RANDOM_GENERATOR = new Random();
 
   // rate of failing to fire torpedos [0.0, 1.0]
