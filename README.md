@@ -4,7 +4,7 @@
 [![Java CI with Maven](https://github.com/Abubakarbm/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/Abubakarbm/se-lab/actions/workflows/maven.yml)
 
 
-https://img.shields.io/badge/license-MIT-blue 
+![License: MIT](https://img.shields.io/badge/license-MIT-blue) 
 
 
 
